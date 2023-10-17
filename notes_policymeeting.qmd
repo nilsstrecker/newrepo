@@ -1,0 +1,49 @@
+---
+title: "Notes for Friday Policy Meeting"
+format: pdf
+pdf-engine: xelatex
+maintfont: Lato
+monofont: Roboto
+editor: visual
+fontsize: 10pt
+---
+
+## Possible Policies
+
+-   Mietpreisbremse (rent cap)
+
+-   Bürgergeld (welfare payments)
+
+-   Mindestlohn (minimum wage)
+
+-   Erbschaftsteuer (inheritance tax)
+
+-   Grundrente (pension subsidy)
+
+-   Wohngeld Plus (housing payments)
+
+-   Laws, that failed to be passed in time, e.g.
+
+    -   Abgeltungsteuer (capital income tax)
+
+    -   Company Sanctions
+
+-   Lieferkettengesetz (supply chain law)
+
+## Lessons learned from pilot
+
+-   Very little information about pre-parliamentary process
+
+-   Just a few very important persons
+
+    -   Ministers
+
+    -   Council members or even speakers
+
+-   Decisions are typically made in private, not even in (closed) council meetings
+
+-   Details about specific events are often hard to come by, very dependent on memory of involved persons --\> Time is of the essence
+
+-   Could be advantageous to have only a few important events
+
+-   Important council members are often personally involved in issues, no \"need\" for outside forces to influence them

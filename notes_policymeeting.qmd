@@ -1,9 +1,10 @@
 ---
 title: "Notes for Friday Policy Meeting"
-format: pdf
-pdf-engine: xelatex
-maintfont: Lato
-monofont: Roboto
+format: 
+  pdf:
+    pdf-engine: lualatex
+    mainfont: ArialMT
+    sansfont: Arial-BoldMT
 editor: visual
 fontsize: 10pt
 ---
@@ -46,4 +47,4 @@ fontsize: 10pt
 
 -   Could be advantageous to have only a few important events
 
--   Important council members are often personally involved in issues, no \"need\" for outside forces to influence them
+-   Important council members are often personally involved in issues, no "need" for outside forces to influence them
